@@ -1,0 +1,6 @@
+{
+  "name": "api-common-types",
+  "version": "0.0.0",
+  "packageManager": "yarn@3.2.2",
+  "main": "./src/index.ts"
+}

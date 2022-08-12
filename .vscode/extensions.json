@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "arcanis.vscode-zipfs",
+    "streetsidesoftware.code-spell-checker",
+    "IronGeek.vscode-env",
+    "dbaeumer.vscode-eslint",
+    "mhutchie.git-graph",
+    "eamodio.gitlens",
+    "esbenp.prettier-vscode"
+  ]
+}

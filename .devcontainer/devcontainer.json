@@ -1,0 +1,24 @@
+{
+  "build": {
+    "dockerfile": "Dockerfile",
+    "args": {
+      "YARN_VERSION": "3.2.2",
+      "NODE_VERSION": "16.16.0"
+    }
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "arcanis.vscode-zipfs",
+        "streetsidesoftware.code-spell-checker",
+        "IronGeek.vscode-env",
+        "dbaeumer.vscode-eslint",
+        "mhutchie.git-graph",
+        "eamodio.gitlens",
+        "esbenp.prettier-vscode",
+        "fabiospampinato.vscode-todo-plus"
+      ]
+    }
+  },
+  "forwardPorts": [3000]
+}
