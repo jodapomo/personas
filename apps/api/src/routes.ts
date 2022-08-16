@@ -1,6 +1,6 @@
 import { Router } from 'express';
 
-import { getAppHealthCheck } from 'shared/helpers/healthCheck.helper';
+import { getAppHealthCheck } from 'shared/helpers/healthCheck';
 
 const router = Router();
 
